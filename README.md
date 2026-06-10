@@ -3,10 +3,14 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer
+Full Stack Developer specializing in React, SaaS platforms, n8n automation, and API integrations.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :seedling: Exploring Technical Content Writing.
+- :rocket: Building scalable SaaS applications and modern web platforms.
+- :robot: Creating automation workflows with n8n and AI-powered solutions.
+- :link: Integrating OpenAI, REST APIs, webhooks, payment gateways, and third-party services.
+- :computer: Experienced with React, Next.js, Laravel, Node.js, FastAPI, and cloud technologies.
+- :chart_with_upwards_trend: Focused on delivering reliable, scalable, and business-driven solutions.
+- :seedling: Continuously learning AI, automation, and modern software architecture.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 ### :hammer_and_wrench: Languages and Tools :
